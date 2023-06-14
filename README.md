@@ -1,2 +1,2 @@
 # MIT_Bus_Tracker_2
-blue.png
+<img src ="blue.png" width="300"/>
