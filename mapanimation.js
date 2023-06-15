@@ -1,5 +1,5 @@
 mapboxgl.accessToken =
-  "pk.eyJ1Ijoia2FyaW1zYXlhciIsImEiOiJjbDgzYjFxa2UwNDduM3dvZTZocnQ0bzFyIn0.jNiqOeE0zvpK9ee2B7pMrg";
+  "pk.eyJ1Ijoia2FyaW1zYXlhciIsImEiOiJjbGl4bTBzZjAwOTRvM3FvMXF5eHB0dTVnIn0.mAer2ynPCmMJti70eOK4wQ";
 
 var map = new mapboxgl.Map({
   container: "map",
@@ -62,5 +62,3 @@ function requestedPosition() {
   updateCurrentStop();
   updateCurrentStopNumber();
 }
-
-
